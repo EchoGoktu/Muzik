@@ -551,6 +551,7 @@ from .dropout import (
     DropoutIE,
     DropoutSeasonIE,
 )
+from .drtalks import DrTalksIE
 from .drtuber import DrTuberIE
 from .drtv import (
     DRTVIE,
